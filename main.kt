@@ -1,5 +1,5 @@
 fun main() {
-    var a:int = 1
+    var a:int = Y
     if(a == Y)
         printin("hello world")
     else
